@@ -3,6 +3,7 @@
 백엔드 개발자 서요한 입니다. React, Vue 등을 활용한 프론트 개발 경험과 Spring, SpringBoot를 활용한 서버 개발 경험이 있습니다.
 TDD를 를 적용해 개발하는 것을 좋아합니다. 
 
+ 
 
 언어 : java, java script, html, css
 
